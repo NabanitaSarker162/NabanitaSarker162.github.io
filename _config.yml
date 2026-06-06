@@ -13,7 +13,7 @@ canonical: https://nabanitasarker162.github.io/
 # Links
 cv_link: /assets/files/Nabanita_CV.pdf
 github_link: https://github.com/NabanitaSarker162
-linkedin: https://www.linkedin.com/in/nabanita-sarker/
+linkedin: https://linkedin.com/in/nabanita-sarker-9761b12a6
 
 # Images
 avatar: /assets/img/avatar.png
@@ -33,7 +33,8 @@ font: "Serif"
 remote_theme: yaoyao-liu/minimal-light
 
 # Navigation bar
-nav_brand: NS
+nav_brand: BUET
+nav_logo: /assets/img/buet-logo.png
 asset_version: 20260425-darker-light-links
 nav_links:
   - title: Experience

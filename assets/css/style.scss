@@ -336,3 +336,60 @@ html[data-theme="dark"] section h3 {
     width: auto;
   }
 }
+
+/* Research interests grid */
+.interest-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px 20px;
+  margin: 0 0 24px;
+}
+
+.interest-item {
+  font-size: 0.97rem;
+  color: #444;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.interest-item .fa-check {
+  color: #6B5B95;
+  font-size: 0.85rem;
+  flex-shrink: 0;
+}
+
+html[data-theme="dark"] .interest-item {
+  color: #dadbdf;
+}
+
+html[data-theme="dark"] .interest-item .fa-check {
+  color: rgb(180, 160, 240);
+}
+
+/* News list */
+.news-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 24px;
+}
+
+.news-list li {
+  padding: 6px 0;
+  border-bottom: 1px solid #f0edf8;
+  font-size: 0.97rem;
+}
+
+html[data-theme="dark"] .news-list li {
+  border-bottom-color: #333;
+}
+
+.news-date {
+  font-weight: 600;
+  color: #6B5B95;
+  margin-right: 6px;
+}
+
+html[data-theme="dark"] .news-date {
+  color: rgb(180, 160, 240);
+}
