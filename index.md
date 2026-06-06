@@ -28,6 +28,6 @@ I also work as a **Chemistry Instructor** at Udvash, Dhaka.
 
 ## Contact
 
-<i class="fa fa-envelope"></i> nabanitataylor (at) gmail.com &nbsp;|&nbsp; <i class="fa fa-phone"></i> 01568120879
+<i class="fa fa-envelope"></i> nabanitataylor (at) gmail.com
 
 For more details, see my [research]({{ "/research/" | relative_url }}), [projects]({{ "/projects/" | relative_url }}), and [experience]({{ "/experience/" | relative_url }}) pages.
