@@ -1,0 +1,58 @@
+# Basic Information
+title: Nabanita Sarker
+position: Undergraduate Student, EEE
+affiliation: "Bangladesh University of Engineering and Technology"
+affiliation_link: https://eee.buet.ac.bd/
+email: nabanitataylor (at) gmail.com
+
+# Search Engine Optimization (SEO)
+keywords: Nabanita Sarker, 2D materials, VLSI Design, Nanoelectronics, Neuromorphic Computing, BUET, Electronics and Photonics
+description: Nabanita Sarker is an undergraduate student in Electrical and Electronic Engineering at BUET, majoring in Electronics and Photonics. Her research focuses on 2D materials, van der Waals heterostructures, VLSI design, and nanoelectronics.
+canonical: https://nabanitasarker162.github.io/
+
+# Links
+cv_link: /assets/files/Nabanita_CV.pdf
+github_link: https://github.com/NabanitaSarker162
+linkedin: https://www.linkedin.com/in/nabanita-sarker/
+
+# Images
+avatar: /assets/img/avatar.png
+favicon: /assets/img/favicon.png
+favicon_dark: /assets/img/favicon-dark.png
+
+# Footnote
+enable_footnote: true
+
+# Auto Dark Mode
+auto_dark_mode: true
+
+# Font
+font: "Serif"
+
+# Use this project as a remote theme for GitHub Pages
+remote_theme: yaoyao-liu/minimal-light
+
+# Navigation bar
+nav_brand: NS
+asset_version: 20260425-darker-light-links
+nav_links:
+  - title: Experience
+    url: /experience/
+  - title: Projects
+    url: /projects/
+  - title: Research
+    url: /research/
+  - title: Home
+    url: /
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
+  - minimal-light.gemspec
+  - html_source_file/
