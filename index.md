@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an undergraduate student in the Department of **Electrical and Electronic Engineering** at the **Bangladesh University of Engineering and Technology (BUET)**, majoring in **Electronics and Photonics** (CGPA: 3.70/4.00). I am currently conducting research on the photocatalytic properties of two-dimensional van der Waals heterostructures using density functional theory. I am also working on developing an intelligent offline verification assistant for SoC design leveraging Large Language Models, with a focus on automated test case generation and design confidentiality.
+I am an undergraduate student in the Department of **Electrical and Electronic Engineering** at the **Bangladesh University of Engineering and Technology (BUET)**, majoring in **Electronics and Photonics** (CGPA: 3.74/4.00, Final Year GPA 3.97/4.00). I am currently conducting research on the photocatalytic properties of two-dimensional van der Waals heterostructures using density functional theory. I am also working on developing an intelligent offline verification assistant for SoC design leveraging Large Language Models, with a focus on automated test case generation and design confidentiality.
 
 I also work as a **Chemistry Instructor** at Udvash, Dhaka.
 
