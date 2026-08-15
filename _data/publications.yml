@@ -1,41 +1,14 @@
 main:
 
-  - title: "Gradient Extrapolation-Based Policy Optimization"
-    authors: I. N. Swapnil, <strong>A. Saha</strong>, T. A. Khan, M. A. Haque, S. N. Lim
-    conference_short: Under Review
-    conference: Preprint.
-    pdf: https://arxiv.org/abs/2605.06755
-    notes: Preprint
-
-  - title: "GRPO++: Enhancing Dermatological Reasoning Under Low-Resource Settings"
-    authors: I. N. Swapnil*, <strong>A. Saha*</strong>, T. A. Khan*, M. A. Haque (* Equal Contribution)
-    conference_short: Under Review
-    conference: Preprint.
-    pdf: https://arxiv.org/abs/2510.01236
-    notes: Preprint
-
-  - title: "CLARIFY: A Specialist–Generalist Framework for Accurate and Lightweight Dermatological Visual Question Answering"
-    authors: <strong>A. Saha*</strong>, T. A. Khan*, I. N. Swapnil*, M. A. Haque (* Equal Contribution)
+  - title: "First-Principles Analysis of AlSb/ZnTe van der Waals Heterostructure as a Self-Driven Photocatalyst for Complete Water Splitting"
+    authors: <strong>N. Sarker</strong>, S. A. Mahmood
     conference_short: Preprint
-    conference: Preprint.
-    pdf: https://arxiv.org/abs/2508.18430
+    conference: ChemRxiv, 2026.
+    doi: https://doi.org/10.26434/chemrxiv.15006870/v1
     notes: Preprint
 
-  - title: "Compression Strategies for Efficient Multimodal LLMs in Medical Contexts"
-    authors: T. A. Khan, <strong>A. Saha</strong>, I. N. Swapnil, M. A. Haque
-    conference_short: Preprint
-    conference: Preprint.
-    pdf: https://arxiv.org/abs/2507.21976
-    notes: Preprint
-
-  - title: "Skin Cancer Classification Using Pre-trained CNNs: A Transfer Learning Approach Addressing Imbalanced Data Challenges"
-    authors: S. Sobhan, <strong>A. Saha</strong>, T. A. Khan, A. Zami
-    conference_short: NCIM
-    conference: 2nd International Conference on Next-Gen Computing, IoT and Machine Learning <strong>(NCIM)</strong>, 2025.
-    doi: https://doi.org/10.1109/NCIM65934.2025.11160090
-
-  - title: "A Multi-Stage Deep Learning Approach to Tuberculosis Detection with Explainable Insights"
-    authors: S. Sobhan, A. Zami, M. Ahmed, T. M. Zihan, T. A. Khan, <strong>A. Saha</strong>
-    conference_short: NCIM
-    conference: 2nd International Conference on Next-Gen Computing, IoT and Machine Learning <strong>(NCIM)</strong>, 2025.
-    doi: https://doi.org/10.1109/NCIM65934.2025.11159991
+  - title: "Common-Base RF Amplifier for High-Frequency Applications"
+    authors: T. A. Qavi*, E. H. Niha*, <strong>N. Sarker*</strong>, T. A. Joy* (* Equal Contribution)
+    conference_short: In Preparation
+    conference: Manuscript under preparation.
+    notes: Manuscript Under Preparation

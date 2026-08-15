@@ -1,6 +1,6 @@
 # Basic Information
 title: Nabanita Sarker
-position: Undergraduate Student, EEE
+position: VLSI Engineer | B.Sc. in EEE
 affiliation: "Bangladesh University of Engineering and Technology"
 affiliation_link: https://eee.buet.ac.bd/
 email: 2006162 (at) eee.buet.ac.bd
@@ -16,7 +16,7 @@ github_link: https://github.com/NabanitaSarker162
 linkedin: https://linkedin.com/in/nabanita-sarker-9761b12a6
 
 # Images
-avatar: /assets/img/avatar.png
+avatar: /assets/img/avatar.jpeg
 favicon: /assets/img/favicon.png
 favicon_dark: /assets/img/favicon-dark.png
 
@@ -43,6 +43,8 @@ nav_links:
     url: /projects/
   - title: Research
     url: /research/
+  - title: Publications
+    url: /publications/
   - title: Home
     url: /
 

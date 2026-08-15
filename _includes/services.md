@@ -1,5 +1,11 @@
 ## Professional Experience
 
+<h4 style="margin:0 10px 0;">VLSI Engineering</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><autocolor>VLSI Engineer, <strong>LLM-Guided RTL Design and Verification (EOI 122)</strong>, BUET (Jun 2026 – Present) — engaged under the Bangladesh Industry Research Development and Innovation (BIRDI) Grants initiative of the Skills for Industry Competitiveness and Innovation Program (SICIP). Preparing RTL designs and verification testbenches in SystemVerilog and Verilog from design specifications, and reviewing LLM-generated RTL. Supervised by Dr. Chowdhury Mohammad Rakin Haider, Department of CSE, BUET.</autocolor></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Teaching</h4>
 
 <ul style="margin:0 0 5px;">
@@ -53,6 +59,6 @@
 
 <ul style="margin:0 0 20px;">
   <li><autocolor><strong>Dr. Shaikh Asif Mahmood</strong> — Professor, Department of EEE, BUET. Email: asifmahmood@eee.buet.ac.bd</autocolor></li>
-  <li><autocolor><strong>Dr. Md. Rakin Haider</strong> — Assistant Professor, Department of CSE, BUET. Email: rakinhaider@eee.buet.ac.bd</autocolor></li>
+  <li><autocolor><strong>Dr. Chowdhury Mohammad Rakin Haider</strong> — Assistant Professor, Department of CSE, BUET. Email: rakinhaider@cse.buet.ac.bd</autocolor></li>
   <li><autocolor><strong>Dr. Mahbub Alam</strong> — Professor, Department of EEE, BUET. Email: mahbubalam@eee.buet.ac.bd</autocolor></li>
 </ul>

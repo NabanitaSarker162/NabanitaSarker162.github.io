@@ -1,4 +1,4 @@
-<h2 id="publications" class="pub-section-title">Publications <span class="pub-ext-links"><a href="{{ site.google_scholar }}" target="_blank" rel="noopener">Google Scholar</a></span></h2>
+<h2 id="publications" class="pub-section-title">Publications{% if site.google_scholar %} <span class="pub-ext-links"><a href="{{ site.google_scholar }}" target="_blank" rel="noopener">Google Scholar</a></span>{% endif %}</h2>
 
 <div class="publications">
   <ol class="bibliography">

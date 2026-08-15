@@ -4,9 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am an undergraduate student in the Department of **Electrical and Electronic Engineering** at the **Bangladesh University of Engineering and Technology (BUET)**, majoring in **Electronics and Photonics** (CGPA: 3.74/4.00, Final Year GPA 3.97/4.00). I am currently conducting research on the photocatalytic properties of two-dimensional van der Waals heterostructures using density functional theory. I am also working on developing an intelligent offline verification assistant for SoC design leveraging Large Language Models, with a focus on automated test case generation and design confidentiality.
+I completed my B.Sc. in the Department of **Electrical and Electronic Engineering** at the **Bangladesh University of Engineering and Technology (BUET)** in June 2026, majoring in **Electronics and Photonics** (CGPA: 3.74/4.00, Final Year CGPA 3.97/4.00).
 
-I also work as a **Chemistry Instructor** at Udvash, Dhaka.
+I currently work as a **VLSI Engineer** on the LLM-Guided RTL Design and Verification project (EOI 122) at BUET, engaged under the Bangladesh Industry Research Development and Innovation (BIRDI) Grants initiative of the Skills for Industry Competitiveness and Innovation Program (SICIP). My work there involves preparing RTL designs and verification testbenches in SystemVerilog and Verilog from design specifications, and reviewing LLM-generated RTL.
+
+I am also conducting research on the photocatalytic properties of two-dimensional van der Waals heterostructures using density functional theory, and I work as a **Chemistry Instructor** at Udvash, Dhaka.
 
 ## Research Interests
 
@@ -22,6 +24,9 @@ I also work as a **Chemistry Instructor** at Udvash, Dhaka.
 ## Latest Updates
 
 <ul class="news-list">
+  <li><span class="news-date">[Aug. 2026]</span> Preprint on AlSb/ZnTe van der Waals heterostructure as a self-driven photocatalyst posted on ChemRxiv.</li>
+  <li><span class="news-date">[Jun. 2026]</span> Joined the LLM-Guided RTL Design and Verification project (EOI 122) at BUET as a VLSI Engineer.</li>
+  <li><span class="news-date">[Jun. 2026]</span> Completed B.Sc. in Electrical and Electronic Engineering at BUET.</li>
   <li><span class="news-date">[Apr. 2025]</span> Started research on photocatalytic hydrogen and oxygen evolution activity of 2D van der Waals heterostructures using DFT.</li>
   <li><span class="news-date">[Jan. 2022]</span> Started B.Sc. in Electrical and Electronic Engineering at BUET.</li>
 </ul>
