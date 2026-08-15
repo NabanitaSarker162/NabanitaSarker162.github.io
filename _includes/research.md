@@ -1,16 +1,16 @@
 ## Research Experience
 
 <p class="research-title">
-  <autocolor><strong>LLM-Aided Test Case Generation for SoC Design</strong></autocolor>
+  <autocolor><strong>LLM-Guided RTL Design and Verification (EOI 122)</strong></autocolor>
 </p>
 
-<p><autocolor><em>Supervised by Dr. Rakin Haider, Department of CSE, BUET &nbsp;|&nbsp; Ongoing</em></autocolor></p>
+<p><autocolor><em>Supervised by Dr. Chowdhury Mohammad Rakin Haider, Assistant Professor, Department of CSE, BUET &nbsp;|&nbsp; June 2026 – Present</em></autocolor></p>
 
 <p>
-  <autocolor>Working on an intelligent offline verification assistant for System-on-Chip design using Large Language Models. The project focuses on automating test case generation while preserving chip design data confidentiality through localized deployment of compressed models. Key contributions include RTL code database development, fine-tuning of quantized LLMs using knowledge distillation, and engineering a privacy-first offline verification tool.</autocolor>
+  <autocolor>Engaged under the Bangladesh Industry Research Development and Innovation (BIRDI) Grants initiative of the Skills for Industry Competitiveness and Innovation Program (SICIP). Preparing RTL designs and verification testbenches of assigned modules from design specifications, and reviewing and verifying LLM-generated RTL designs and verification testbenches.</autocolor>
 </p>
 
-<p><autocolor><strong>Tools:</strong> Python, SystemVerilog, LLM Fine-tuning, Quantization techniques.</autocolor></p>
+<p><autocolor><strong>Tools:</strong> SystemVerilog, Verilog, RTL simulation and verification tools.</autocolor></p>
 
 <br>
 
