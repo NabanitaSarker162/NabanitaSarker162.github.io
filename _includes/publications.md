@@ -6,7 +6,6 @@
       <li>
         <div class="pub-row">
           <div class="col-sm-3 abbr">
-            <img src="{{ link.image | default: '/assets/img/teaser_example.png' | relative_url }}" class="teaser img-fluid z-depth-1" alt="">
             {% if link.conference_short %}
             <abbr class="badge" data-venue="{{ link.conference_short }}">{{ link.conference_short }}</abbr>
             {% endif %}
