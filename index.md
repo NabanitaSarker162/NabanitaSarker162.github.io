@@ -17,7 +17,6 @@ I am also conducting research on the photocatalytic properties of two-dimensiona
   <div class="interest-item"><i class="fa fa-check"></i> VLSI Design</div>
   <div class="interest-item"><i class="fa fa-check"></i> Nanoelectronics</div>
   <div class="interest-item"><i class="fa fa-check"></i> Neuromorphic Computing</div>
-  <div class="interest-item"><i class="fa fa-check"></i> van der Waals Heterostructures</div>
   <div class="interest-item"><i class="fa fa-check"></i> Semiconductor Devices</div>
 </div>
 
