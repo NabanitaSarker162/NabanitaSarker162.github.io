@@ -6,9 +6,3 @@ main:
     conference: ChemRxiv, 2026.
     doi: https://doi.org/10.26434/chemrxiv.15006870/v1
     notes: Preprint
-
-  - title: "Common-Base RF Amplifier for High-Frequency Applications"
-    authors: T. A. Qavi*, E. H. Niha*, <strong>N. Sarker*</strong>, T. A. Joy* (* Equal Contribution)
-    conference_short: In Preparation
-    conference: Manuscript under preparation.
-    notes: Manuscript Under Preparation
