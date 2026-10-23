@@ -8,7 +8,7 @@ I completed my B.Sc. in the Department of **Electrical and Electronic Engineerin
 
 From June to October 2026, I worked as a **VLSI Engineer** on the LLM-Guided RTL Design and Verification project (EOI 122) at BUET, engaged under the Bangladesh Industry Research Development and Innovation (BIRDI) Grants initiative of the Skills for Industry Competitiveness and Innovation Program (SICIP). My work there involved preparing RTL designs and verification testbenches in SystemVerilog and Verilog from design specifications, and reviewing LLM-generated RTL.
 
-I am also conducting research on the photocatalytic properties of two-dimensional van der Waals heterostructures using density functional theory, and I work as a **Chemistry Instructor** at Udvash, Dhaka.
+From April 2025 to June 2026, I carried out research on the photocatalytic properties of two-dimensional van der Waals heterostructures using density functional theory, published in the International Journal of Hydrogen Energy. I also work as a **Chemistry Instructor** at Udvash, Dhaka.
 
 ## Research Interests
 
@@ -35,6 +35,6 @@ I am also conducting research on the photocatalytic properties of two-dimensiona
 
 ## Contact
 
-<i class="fa fa-envelope"></i> nabanitataylor (at) gmail.com
+<i class="fa fa-envelope"></i> nabanitasarker894 (at) gmail.com
 
 For more details, see my [research]({{ "/research/" | relative_url }}), [projects]({{ "/projects/" | relative_url }}), and [experience]({{ "/experience/" | relative_url }}) pages.

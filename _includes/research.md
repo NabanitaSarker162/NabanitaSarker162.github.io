@@ -18,10 +18,10 @@
   <autocolor><strong>Enhanced Photocatalytic Hydrogen and Oxygen Evolution Activity by Two-Dimensional van der Waals Heterostructure: A First-Principles Study</strong></autocolor>
 </p>
 
-<p><autocolor><em>Supervised by Dr. Shaikh Asif Mahmood, Professor, Department of EEE, BUET &nbsp;|&nbsp; April 2025 – Present</em></autocolor></p>
+<p><autocolor><em>Supervised by Dr. Shaikh Asif Mahmood, Professor, Department of EEE, BUET &nbsp;|&nbsp; April 2025 – June 2026</em></autocolor></p>
 
 <p>
-  <autocolor>Investigating the electronic, optical, and photocatalytic properties of van der Waals (vDW) heterostructures using density functional theory (DFT). Studying the heterostructure as an excellent water-splitting photocatalyst with remarkable potential for fuel cells and energy storage applications.</autocolor>
+  <autocolor>Investigated the electronic, optical, and photocatalytic properties of van der Waals (vDW) heterostructures using density functional theory (DFT). Studied the heterostructure as an excellent water-splitting photocatalyst with remarkable potential for fuel cells and energy storage applications. Results published in the <a href="https://doi.org/10.1016/j.ijhydene.2026.158021">International Journal of Hydrogen Energy</a> (2026).</autocolor>
 </p>
 
 <p><autocolor><strong>Tools:</strong> Biovia Materials Studio, Quantum Espresso, VESTA.</autocolor></p>
