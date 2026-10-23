@@ -6,7 +6,7 @@ layout: homepage
 
 I completed my B.Sc. in the Department of **Electrical and Electronic Engineering** at the **Bangladesh University of Engineering and Technology (BUET)** in June 2026, majoring in **Electronics and Photonics** (CGPA: 3.74/4.00, Final Year CGPA 3.97/4.00).
 
-I currently work as a **VLSI Engineer** on the LLM-Guided RTL Design and Verification project (EOI 122) at BUET, engaged under the Bangladesh Industry Research Development and Innovation (BIRDI) Grants initiative of the Skills for Industry Competitiveness and Innovation Program (SICIP). My work there involves preparing RTL designs and verification testbenches in SystemVerilog and Verilog from design specifications, and reviewing LLM-generated RTL.
+From June to October 2026, I worked as a **VLSI Engineer** on the LLM-Guided RTL Design and Verification project (EOI 122) at BUET, engaged under the Bangladesh Industry Research Development and Innovation (BIRDI) Grants initiative of the Skills for Industry Competitiveness and Innovation Program (SICIP). My work there involved preparing RTL designs and verification testbenches in SystemVerilog and Verilog from design specifications, and reviewing LLM-generated RTL.
 
 I am also conducting research on the photocatalytic properties of two-dimensional van der Waals heterostructures using density functional theory, and I work as a **Chemistry Instructor** at Udvash, Dhaka.
 
@@ -23,6 +23,7 @@ I am also conducting research on the photocatalytic properties of two-dimensiona
 ## Latest Updates
 
 <ul class="news-list">
+  <li><span class="news-date">[Oct. 2026]</span> Completed my engagement as a VLSI Engineer on the LLM-Guided RTL Design and Verification project (EOI 122) at BUET.</li>
   <li><span class="news-date">[Oct. 2026]</span> Preprint on SRAM reliability sign-off across PVT conditions posted on <a href="https://doi.org/10.21203/rs.3.rs-11455984/v1">Research Square</a>.</li>
   <li><span class="news-date">[Oct. 2026]</span> Paper on the AlSb/ZnTe van der Waals heterostructure published in the <a href="https://doi.org/10.1016/j.ijhydene.2026.158021">International Journal of Hydrogen Energy</a>.</li>
   <li><span class="news-date">[Aug. 2026]</span> Preprint on AlSb/ZnTe van der Waals heterostructure as a self-driven photocatalyst posted on ChemRxiv.</li>

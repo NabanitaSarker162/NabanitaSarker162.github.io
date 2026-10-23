@@ -4,10 +4,10 @@
   <autocolor><strong>LLM-Guided RTL Design and Verification (EOI 122)</strong></autocolor>
 </p>
 
-<p><autocolor><em>Supervised by Dr. Chowdhury Mohammad Rakin Haider, Assistant Professor, Department of CSE, BUET &nbsp;|&nbsp; June 2026 – Present</em></autocolor></p>
+<p><autocolor><em>Supervised by Dr. Chowdhury Mohammad Rakin Haider, Assistant Professor, Department of CSE, BUET &nbsp;|&nbsp; June 2026 – October 2026</em></autocolor></p>
 
 <p>
-  <autocolor>Engaged under the Bangladesh Industry Research Development and Innovation (BIRDI) Grants initiative of the Skills for Industry Competitiveness and Innovation Program (SICIP). Preparing RTL designs and verification testbenches of assigned modules from design specifications, and reviewing and verifying LLM-generated RTL designs and verification testbenches.</autocolor>
+  <autocolor>Engaged under the Bangladesh Industry Research Development and Innovation (BIRDI) Grants initiative of the Skills for Industry Competitiveness and Innovation Program (SICIP). Prepared RTL designs and verification testbenches of assigned modules from design specifications, and reviewed and verified LLM-generated RTL designs and verification testbenches.</autocolor>
 </p>
 
 <p><autocolor><strong>Tools:</strong> SystemVerilog, Verilog, RTL simulation and verification tools.</autocolor></p>
