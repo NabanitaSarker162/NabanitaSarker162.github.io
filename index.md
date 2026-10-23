@@ -23,6 +23,8 @@ I am also conducting research on the photocatalytic properties of two-dimensiona
 ## Latest Updates
 
 <ul class="news-list">
+  <li><span class="news-date">[Oct. 2026]</span> Preprint on SRAM reliability sign-off across PVT conditions posted on <a href="https://doi.org/10.21203/rs.3.rs-11455984/v1">Research Square</a>.</li>
+  <li><span class="news-date">[Oct. 2026]</span> Paper on the AlSb/ZnTe van der Waals heterostructure published in the <a href="https://doi.org/10.1016/j.ijhydene.2026.158021">International Journal of Hydrogen Energy</a>.</li>
   <li><span class="news-date">[Aug. 2026]</span> Preprint on AlSb/ZnTe van der Waals heterostructure as a self-driven photocatalyst posted on ChemRxiv.</li>
   <li><span class="news-date">[Jun. 2026]</span> Joined the LLM-Guided RTL Design and Verification project (EOI 122) at BUET as a VLSI Engineer.</li>
   <li><span class="news-date">[Jun. 2026]</span> Completed B.Sc. in Electrical and Electronic Engineering at BUET.</li>

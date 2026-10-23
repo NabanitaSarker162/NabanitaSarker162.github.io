@@ -2,7 +2,14 @@ main:
 
   - title: "First-Principles Analysis of AlSb/ZnTe van der Waals Heterostructure as a Self-Driven Photocatalyst for Complete Water Splitting"
     authors: <strong>N. Sarker</strong>, S. A. Mahmood
+    conference_short: IJHE
+    conference: International Journal of Hydrogen Energy, vol. 286, 158021, 2026.
+    doi: https://doi.org/10.1016/j.ijhydene.2026.158021
+    notes: Journal article
+
+  - title: "Design-Point Transfer With Conformal Calibration for SRAM Reliability Sign-Off Across PVT Conditions"
+    authors: <strong>N. Sarker</strong>
     conference_short: Preprint
-    conference: ChemRxiv, 2026.
-    doi: https://doi.org/10.26434/chemrxiv.15006870/v1
+    conference: Research Square, 2026.
+    doi: https://doi.org/10.21203/rs.3.rs-11455984/v1
     notes: Preprint

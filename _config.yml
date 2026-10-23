@@ -6,11 +6,15 @@ affiliation_link: https://eee.buet.ac.bd/
 email: 2006162 (at) eee.buet.ac.bd
 
 # Search Engine Optimization (SEO)
-keywords: Nabanita Sarker, 2D materials, VLSI Design, Nanoelectronics, Neuromorphic Computing, BUET, Electronics and Photonics
-description: Nabanita Sarker is an undergraduate student in Electrical and Electronic Engineering at BUET, majoring in Electronics and Photonics. Her research focuses on 2D materials, van der Waals heterostructures, VLSI design, and nanoelectronics.
+keywords: Nabanita Sarker, BUET, Electrical and Electronic Engineering, 2D materials, van der Waals heterostructures, density functional theory, VLSI Design, SRAM reliability, semiconductor device simulation, TCAD, machine learning, Nanoelectronics
+description: Nabanita Sarker is a VLSI engineer and researcher at the Bangladesh University of Engineering and Technology (BUET), with a B.Sc. in Electrical and Electronic Engineering (2026). Her research covers 2D materials and van der Waals heterostructures, VLSI design and SRAM reliability, and machine learning for semiconductor device simulation.
 canonical: https://nabanitasarker162.github.io/
+# Google Search Console: paste only the content="..." value of the HTML-tag verification here
+google_site_verification: ""
 
 # Links
+google_scholar: https://scholar.google.com/citations?user=1-N5MRcAAAAJ&hl=en
+orcid: https://orcid.org/0009-0000-0727-9137
 cv_link: /assets/files/Nabanita_CV.pdf
 github_link: https://github.com/NabanitaSarker162
 linkedin: https://linkedin.com/in/nabanita-sarker-9761b12a6
