@@ -36,6 +36,21 @@ font: "Serif"
 # Use this project as a remote theme for GitHub Pages
 remote_theme: yaoyao-liu/minimal-light
 
+# Sitemap (served at /sitemap.xml); only my own CV is listed from assets/files
+url: https://nabanitasarker162.github.io
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+defaults:
+  - scope:
+      path: "assets/files"
+    values:
+      sitemap: false
+  - scope:
+      path: "assets/files/Nabanita_CV.pdf"
+    values:
+      sitemap: true
+
 # Navigation bar
 nav_brand: BUET
 nav_logo: /assets/img/buet-logo.png
