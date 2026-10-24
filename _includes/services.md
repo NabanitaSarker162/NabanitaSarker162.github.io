@@ -1,9 +1,9 @@
 ## Professional Experience
 
-<h4 style="margin:0 10px 0;">VLSI Engineer</h4>
+<h4 style="margin:0 10px 0;">Research Assistant (VLSI)</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor><strong>LLM-Guided RTL Design and Verification (EOI 122)</strong>, BUET (Jun 2026 – Oct 2026) — engaged under the Bangladesh Industry Research Development and Innovation (BIRDI) Grants initiative of the Skills for Industry Competitiveness and Innovation Program (SICIP). Prepared RTL designs and verification testbenches in SystemVerilog and Verilog from design specifications, and reviewed LLM-generated RTL. Supervised by Dr. Chowdhury Mohammad Rakin Haider, Department of CSE, BUET.</autocolor></li>
+  <li><autocolor><strong>LLM-Aided RTL Design and Verification</strong>, BUET (Jun 2026 – Oct 2026) — engaged under the Bangladesh Industry Research Development and Innovation (BIRDI) Grants initiative of the Skills for Industry Competitiveness and Innovation Program (SICIP). Prepared RTL designs and verification testbenches in SystemVerilog and Verilog from design specifications, and reviewed LLM-generated RTL. Supervised by Dr. Chowdhury Mohammad Rakin Haider, Department of CSE, BUET.</autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Teaching</h4>
