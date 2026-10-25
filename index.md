@@ -8,6 +8,8 @@ I completed my B.Sc. in the Department of **Electrical and Electronic Engineerin
 
 From June to October 2026, I worked as a **Research Assistant (VLSI)** on the LLM-Aided RTL Design and Verification project at BUET, engaged under the Bangladesh Industry Research Development and Innovation (BIRDI) Grants initiative of the Skills for Industry Competitiveness and Innovation Program (SICIP). My work there involved preparing RTL designs and verification testbenches in SystemVerilog and Verilog from design specifications, and reviewing LLM-generated RTL.
 
+Since June 2026, I have been working with Dr. Hafiz Imtiaz on interpretable machine learning for performance prediction and degradation diagnosis in lead-free perovskite solar cells, built on large sets of SCAPS-1D device simulations.
+
 For my undergraduate thesis (April 2025 – June 2026), I studied the photocatalytic properties of two-dimensional van der Waals heterostructures using density functional theory; the work is published in the International Journal of Hydrogen Energy. I also work as a **Chemistry Instructor** at Udvash, Dhaka.
 
 ## Research Interests
@@ -27,6 +29,7 @@ For my undergraduate thesis (April 2025 – June 2026), I studied the photocatal
   <li><span class="news-date">[Oct. 2026]</span> Preprint on SRAM reliability sign-off across PVT conditions posted on <a href="https://doi.org/10.21203/rs.3.rs-11455984/v1">Research Square</a>.</li>
   <li><span class="news-date">[Oct. 2026]</span> Paper on the AlSb/ZnTe van der Waals heterostructure published in the <a href="https://doi.org/10.1016/j.ijhydene.2026.158021">International Journal of Hydrogen Energy</a>.</li>
   <li><span class="news-date">[Aug. 2026]</span> Preprint on AlSb/ZnTe van der Waals heterostructure as a self-driven photocatalyst posted on ChemRxiv.</li>
+  <li><span class="news-date">[Jun. 2026]</span> Started research on interpretable machine learning for lead-free perovskite solar cells with Dr. Hafiz Imtiaz.</li>
   <li><span class="news-date">[Jun. 2026]</span> Joined the LLM-Aided RTL Design and Verification project at BUET as a Research Assistant (VLSI).</li>
   <li><span class="news-date">[Jun. 2026]</span> Completed B.Sc. in Electrical and Electronic Engineering at BUET.</li>
   <li><span class="news-date">[Apr. 2025]</span> Started my undergraduate thesis on photocatalytic hydrogen and oxygen evolution activity of 2D van der Waals heterostructures using DFT.</li>

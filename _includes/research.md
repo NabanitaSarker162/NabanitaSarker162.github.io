@@ -1,6 +1,20 @@
 ## Research Experience
 
 <p class="research-title">
+  <autocolor><strong>Interpretable Machine Learning for Performance Prediction and Degradation Diagnosis in Lead-Free Perovskite Solar Cells</strong></autocolor>
+</p>
+
+<p><autocolor><em>Research Project (Semiconductor Devices and Machine Learning) &nbsp;|&nbsp; Supervised by Dr. Hafiz Imtiaz, Professor, Department of EEE, BUET &nbsp;|&nbsp; June 2026 – Present</em></autocolor></p>
+
+<p>
+  <autocolor>Developing a machine-learning framework built on 42,220 SCAPS-1D simulations of lead-free perovskite solar cells. Trained surrogate models for device-performance prediction and evaluated how well they generalize to independently sampled devices, and used interpretable machine learning to diagnose six degradation mechanisms from temperature- and illumination-dependent measurements (macro-F1 of 0.938 on independent test devices).</autocolor>
+</p>
+
+<p><autocolor><strong>Tools:</strong> SCAPS-1D, Python, scikit-learn, XGBoost, SHAP.</autocolor></p>
+
+<br>
+
+<p class="research-title">
   <autocolor><strong>LLM-Aided RTL Design and Verification</strong></autocolor>
 </p>
 
