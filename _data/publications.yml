@@ -7,6 +7,14 @@ main:
     doi: https://doi.org/10.1016/j.ijhydene.2026.158021
     notes: Journal article
 
+  - title: "Interpretable Machine Learning Diagnosis of Degradation Mechanisms in Lead-Free RbSn<sub>0.5</sub>Ge<sub>0.5</sub>I<sub>3</sub> Solar Cells from Temperature- and Illumination-Dependent Electrical Measurements"
+    authors: <strong>N. Sarker</strong>, H. Imtiaz
+    conference_short: Preprint
+    conference: arXiv:2611.16750, 2026.
+    pdf: https://arxiv.org/abs/2611.16750
+    doi: https://doi.org/10.48550/arXiv.2611.16750
+    notes: Preprint
+
   - title: "Design-Point Transfer With Conformal Calibration for SRAM Reliability Sign-Off Across PVT Conditions"
     authors: <strong>N. Sarker</strong>
     conference_short: Preprint
