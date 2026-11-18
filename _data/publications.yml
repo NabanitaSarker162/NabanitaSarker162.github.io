@@ -11,15 +11,13 @@ main:
     authors: T. A. Qavi, E. H. Niha, T. A. Joy, <strong>N. Sarker</strong>, R. H. Palash
     conference_short: ICECE
     conference: 14th International Conference on Electrical and Computer Engineering (ICECE 2026), Dhaka, Bangladesh.
-    pdf: /assets/files/ICECE2026_CB_RF_PA_stability.pdf
-    notes: Accepted (oral presentation)
+    notes: Accepted
 
   - title: "RTL-to-GDSII Implementation of a Low-Power Password-Authenticated Smart Car Parking System in 45nm CMOS Using Cadence Design Flow"
     authors: T. A. Qavi, E. H. Niha, T. A. Joy, <strong>N. Sarker</strong>
     conference_short: ICECE
     conference: 14th International Conference on Electrical and Computer Engineering (ICECE 2026), Dhaka, Bangladesh.
-    pdf: /assets/files/ICECE2026_smart_parking_RTL_GDSII.pdf
-    notes: Accepted (oral presentation)
+    notes: Accepted
 
   - title: "Interpretable Machine Learning Diagnosis of Degradation Mechanisms in Lead-Free RbSn<sub>0.5</sub>Ge<sub>0.5</sub>I<sub>3</sub> Solar Cells from Temperature- and Illumination-Dependent Electrical Measurements"
     authors: <strong>N. Sarker</strong>, H. Imtiaz
